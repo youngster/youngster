@@ -2,4 +2,4 @@
 
 <font color=#008000>苟利国家生死以，岂因祸福避趋之
 
-reach me from : lodatang.com
+reach me from : [tang](lodatang.com)
