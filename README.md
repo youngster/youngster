@@ -2,4 +2,4 @@
 
 reach me from : [Croak](https://lodatang.com)
 
-https://activity-graph.herokuapp.com/graph?username=loda13&theme=react-dark&hide_border=true&area=true
+![](https://activity-graph.herokuapp.com/graph?username=loda13&theme=react-dark&hide_border=true&area=true)
