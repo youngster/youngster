@@ -8,6 +8,7 @@
 
 ### My blog
 [Croak: lodatang.com](https://lodatang.com)
+Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
 
 <p align="center">
   <a href="https://lodatang.com">
