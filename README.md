@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Croak-d7b1bf?logo=Blogger)](https://www.lodatang.com)
 
 ### My blog
-![Loda Tang](lodatang.com)
+[Croak: lodatang.com](https://lodatang.com)
 
 <p align="center">
   <a href="https://lodatang.com">
