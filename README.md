@@ -17,7 +17,7 @@ Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/ne
 </p>
 
 ### Commonly used tools
-https://camo.githubusercontent.com/6d0807a19a969691c057a01844d93e97e6423ff29f84678ecac1a6e66afe1edd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67
+[githubusercontent](https://camo.githubusercontent.com/6d0807a19a969691c057a01844d93e97e6423ff29f84678ecac1a6e66afe1edd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67)
 
 ### Summary_cards with dracula
 [![](https://raw.githubusercontent.com/loda13/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
