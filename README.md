@@ -17,6 +17,33 @@ Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/ne
 </p>
 
 ### Commonly used tools
+<div align="center">  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/go-original.svg" alt="Go" height="50" /> 
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/grafana.png" alt="Grafana" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/docker-original-wordmark.svg" alt="Docker" height="50" /> 
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/elastic-icon.svg" alt="ES" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/kibana.png" alt="Kibana" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />   
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/apache_kafka-icon.svg" alt="Kafka" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/jenkins-icon.svg" alt="Jenkins" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/apache_hive-icon.svg" alt="Hive" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+</div>  
+<br>
 ![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67](https://user-images.githubusercontent.com/10447318/202187351-d8fe38c9-4e65-41a8-8d76-242f022acb69.png)
 
 ### Summary_cards with dracula
