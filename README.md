@@ -43,6 +43,7 @@ Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/ne
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/jquery.png" alt="jQuery" height="50" />  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/AlexThankQ/image-hosting@master/github-profile/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 </div>  
+
 ![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67](https://user-images.githubusercontent.com/10447318/202187351-d8fe38c9-4e65-41a8-8d76-242f022acb69.png)
 
 ### Summary_cards with dracula
