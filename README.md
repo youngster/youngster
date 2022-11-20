@@ -21,7 +21,7 @@ Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/ne
 [![My Skills](https://skillicons.dev/icons?i=md,html,mysql,py,aws,gcp,stackoverflow,twitter,linkedin,docker,github,wordpress,cloudflare,go,vscode,vim,redis,prometheus,linux,kubernetes,idea,git,flask,&theme=dark)](https://skillicons.dev)
 ![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67](https://user-images.githubusercontent.com/10447318/202187351-d8fe38c9-4e65-41a8-8d76-242f022acb69.png)
 
-### Summary_cards with dracula
+### Summary_cards with 2077
 [![](https://raw.githubusercontent.com/loda13/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/loda13/github-profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/loda13/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/loda13/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/loda13/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
