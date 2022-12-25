@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Croak-d7b1bf?logo=Blogger)](https://www.lodatang.com)
 
 ### My blog
-[Croak: lodatang.com](https://lodatang.com)
+[Croak: krohk.com](https://krohk.com)
 Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
 
 <p align="center">
