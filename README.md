@@ -12,8 +12,7 @@ Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/ne
 
 <p align="center">
   <a href="https://lodatang.com">
-    <img alt="Loda Tang's blog" src="https://user-images.githubusercontent.com/10447318/202890978-2892db81-13e3-4c76-aa6e-845bdac64490.png" width="689">
-
+    <img alt="Loda Tang's blog" src="https://user-images.githubusercontent.com/10447318/212256434-2f693d2c-041c-449b-9ed7-85f8eb108948.png" width="689">
   </a>
 </p>
 
