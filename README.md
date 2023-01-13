@@ -35,3 +35,4 @@ Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/ne
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### History
+![image](https://user-images.githubusercontent.com/10447318/212266029-2010f0f9-6dee-4dde-918f-d495bbbbf73e.png)
