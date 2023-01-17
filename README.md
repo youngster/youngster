@@ -36,3 +36,7 @@ Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/ne
 
 ### History
 ![image](https://user-images.githubusercontent.com/10447318/212266029-2010f0f9-6dee-4dde-918f-d495bbbbf73e.png)
+
+### last year
+![image](https://user-images.githubusercontent.com/10447318/212799808-836ed949-a111-43d6-a942-7359413d7add.png)
+
