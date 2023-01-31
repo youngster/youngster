@@ -40,3 +40,4 @@ Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/ne
 ### last year
 ![image](https://user-images.githubusercontent.com/10447318/212799808-836ed949-a111-43d6-a942-7359413d7add.png)
 
+![](https://api.githubtrends.io/user/svg/loda13/repos?time_range=one_year&theme=synthwaves)![](https://api.githubtrends.io/user/svg/loda13/langs?time_range=one_year&theme=synthwaves)
