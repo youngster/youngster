@@ -25,4 +25,5 @@ Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/ne
 [![](https://raw.githubusercontent.com/loda13/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/loda13/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Github stats
-![profile](https://github-profile-trophy.vercel.app/?username=loda13&theme=gruvbox&column=7)
+![profile](https://github-profile-trophy.vercel.app/?username=loda13&theme=dracula&column=7)
+![](https://github-readme-stats.vercel.app/api?username=loda13&show_icons=true&theme=dracula)
