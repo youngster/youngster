@@ -12,9 +12,10 @@ Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/ne
 
 <p align="center">
   <a href="https://lodatang.com">
-    <img alt="Loda Tang's blog" src="https://user-images.githubusercontent.com/10447318/232691301-a69741e2-dcf8-4d6c-ab18-78bc76cfbc2a.png" width="689">
+    <img alt="Loda Tang's blog" src="[](https://user-images.githubusercontent.com/10447318/232691301-a69741e2-dcf8-4d6c-ab18-78bc76cfbc2a.png)" width="689">
   </a>
 </p>
+
 
 
 ### Commonly used tools
