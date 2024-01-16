@@ -7,8 +7,7 @@
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Croak-d7b1bf?logo=Blogger)](https://www.lodatang.com)
 
 ### My blog
-[loda.notion](https://loda.notion.site/loda/Croak-cf1a34831c3e4c118d09ba0a753815f7)
-Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
+[loda.notion](https://loda.notion.site/loda/Croak-cf1a34831c3e4c118d09ba0a753815f7) thanks to Notion
 
 <p align="center">
   <a href="https://loda.notion.site/">
