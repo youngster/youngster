@@ -7,15 +7,14 @@
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Croak-d7b1bf?logo=Blogger)](https://www.lodatang.com)
 
 ### My blog
-[Croak: krohk.com](https://krohk.com)
+[loda.notion](https://loda.notion.site/loda/Croak-cf1a34831c3e4c118d09ba0a753815f7)
 Fork from [Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)
 
 <p align="center">
-  <a href="https://lodatang.com">
-    <img alt="Loda Tang's blog" src="https://user-images.githubusercontent.com/10447318/235606552-d938b927-1143-4f72-aee4-6558ecca294e.png" width="689">
+  <a href="https://loda.notion.site/">
+    <img alt="Loda Tang's blog" src="https://github.com/loda13/loda13/assets/10447318/84b9ccdb-ca3d-49cb-876a-cb95be38e014" width="1250">
   </a>
 </p>
-
 
 ### Commonly used tools
 ![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67](https://user-images.githubusercontent.com/10447318/202187351-d8fe38c9-4e65-41a8-8d76-242f022acb69.png)
