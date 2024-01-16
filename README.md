@@ -4,7 +4,6 @@
 [![](https://img.shields.io/github/stars/loda13?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=loda13&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/loda13?color=27da6b&logo=Handshake)](https://github.com/loda13?tab=followers)
 [![](https://img.shields.io/github/starat/eryajf?color=27da6b&logo=Handshake)](https://github.com/loda13?tab=stars)
-[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Croak-d7b1bf?logo=Blogger)](https://www.lodatang.com)
 
 ### My blog
 [loda.notion](https://loda.notion.site/loda/Croak-cf1a34831c3e4c118d09ba0a753815f7) thanks to Notion
